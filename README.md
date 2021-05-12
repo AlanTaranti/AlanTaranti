@@ -3,5 +3,8 @@ Sou o Alan, Bacharel em Engenharia de Computação pela [UCDB](https://ucdb.br),
 
 Gosto de um monte de coisas, tipo café, vinho, jogos de tabuleiro, dotinha, lolzinho (sim, eu curto os dois), séries, software livre, front-end, engenharia de software, dados abertos, visualização de dados e engenharia de dados.
 
+# Algumas estatísticas
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlanTaranti&count_private=true&show_icons=true&title_color=228B22&icon_color=3a5169&text_color=3a5169&locale=pt-BR&include_all_commits=true)](https://github.com/AlanTaranti)
+
 # Vamos nos conectar?
 Confira meu [Hub de Conexões](https://alantaranti.github.io). Lá tem WhatsApp, Instagram, Github e outras coisas.
