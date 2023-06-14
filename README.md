@@ -5,7 +5,3 @@ Gosto de um monte de coisas, tipo café, vinho, jogos de tabuleiro, dotinha, sé
 
 # Vamos nos conectar?
 Confira meu [Hub de Conexões](https://alantaranti.me). Lá tem meu Blog, Instagram, LinkedIn e outras coisas.
-
-# Badges
-
-[![@alantaranti's Holopin board](https://holopin.io/api/user/board?user=alantaranti)](https://holopin.io/@alantaranti)
